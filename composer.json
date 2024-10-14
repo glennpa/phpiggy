@@ -1,0 +1,18 @@
+{
+  "name": "glennabuzo/phpiggy",
+  "description": "A PHP application for tracking expenses.",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Glenn Abuzo",
+      "email": "glenn.abuzo@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "src/Framework",
+      "App\\": "src/App"
+    }
+  }
+}
